@@ -1,4 +1,6 @@
 ![](//photo.jpg)
+![](/photo.jpg)
+
 # Bienvenido a test-repo:
 HI:
 a

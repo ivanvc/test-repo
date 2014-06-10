@@ -1,3 +1,4 @@
+![001-thumb.jpg](/media/001-thumb.jpg)
 ![](//photo.jpg)
 ![](/photo.jpg)
 
